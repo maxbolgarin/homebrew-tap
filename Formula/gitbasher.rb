@@ -3,8 +3,8 @@
 class Gitbasher < Formula
   desc "Simple bash utility that makes git easy to use"
   homepage "https://github.com/maxbolgarin/gitbasher"
-  url "https://github.com/maxbolgarin/gitbasher/releases/download/v5.6.2/gitb"
-  sha256 "2b4261fcc55efd6c4f0109ccf71898bbf32bc52377128449a3bfb1b101ad60c8"
+  url "https://github.com/maxbolgarin/gitbasher/releases/download/v5.6.3/gitb"
+  sha256 "c5c5329e83aace901206fd35f347ef1ce1bf43fc0b0b70e5171d9af9af8560db"
   license "MIT"
 
   depends_on "git"
